@@ -11,11 +11,11 @@ body {
   border-radius: 0;
   border: 0;
 }
-.navbar-title {
+.navbar-brand {
   padding-top: 15px;
 }
 
-.navbar-title h1 {
+.navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #88b14b;
   font-size: 2.0em;
